@@ -1,0 +1,14 @@
+{
+  "name": "egor",
+  "human": true,
+  "age": 29,
+  "family": [
+    "Mom",
+    "Dad",
+    "Sister"
+  ],
+  "animals": {
+    "dog": "Dog",
+    "cat": "Cat"
+  }
+}
